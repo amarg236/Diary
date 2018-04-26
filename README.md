@@ -4,6 +4,6 @@
 
 ## Preview
 
-[![Landing Page Preview](https://imgur.com/a/Ihn8pXa)]
+[![Landing Page Preview](http://sonamgurung.me/diary.png)]
 
 **[View Live Preview](http://sonamgurung.me/diary/)**
